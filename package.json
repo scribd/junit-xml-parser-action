@@ -12,6 +12,6 @@
   "homepage": "https://github.com/justAnotherDev/junit-xml-parser-action#readme",
   "dependencies": {
     "@actions/core": "^1.2.5",
-    "junit2json": "^2.0.0"
+    "junit2json": "^3.0.5"
   }
 }
